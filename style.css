@@ -1,0 +1,43 @@
+h1{
+    color: ghostwhite;
+}
+.menu{
+    
+    display: flex;
+    justify-content: space-between;
+    background:  rgb(202, 57, 5);
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: beige;
+}
+.grid{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+body{
+    background-color:orange;
+}
+p,h2,li,ul,ol{
+    color: rgb(87, 27, 6);
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+ }
+.grid img{
+    border : 2px solid blue;
+    border-width : 10px;
+}
+
+.Origami{
+
+    background-color: blanchedalmond;
+    justify-content: space-evenly;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p,h2{
+    justify-content: space-evenly;
+}
